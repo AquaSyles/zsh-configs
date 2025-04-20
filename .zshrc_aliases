@@ -1,0 +1,7 @@
+alias ls='ls --color'
+
+alias eza="vim ~/.zshrc_aliases"
+alias ez="vim ~/.zshrc"
+alias sz="source ~/.zshrc"
+
+alias i='sudo pacman -S'
